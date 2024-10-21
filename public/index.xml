@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avi&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Avi&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2024 12:02:29 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Ever Professional Code</title>
+      <link>http://localhost:1313/posts/my-first-ever-professional-code/</link>
+      <pubDate>Mon, 21 Oct 2024 12:02:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-ever-professional-code/</guid>
+      <description>&lt;h3 id=&#34;my-first-ever-professional-code&#34;&gt;My first ever professional code&lt;/h3&gt;&#xA;&lt;p&gt;The first project at my first job was exciting and came with lots of key learning which have been lot useful in my career.&lt;/p&gt;&#xA;&lt;p&gt;I was given rough requirements for a resume parser with emails that can read keywords from resumes and job descriptions and send emails to the email addresses parsed from resumes for the jobs they might want to apply for. That was for an HR consultant which my first company served.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
