@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career on Avi&#39;s Blog</title>
-    <link>http://localhost:1313/tags/career/</link>
+    <link>https://debuging-avi.com/tags/career/</link>
     <description>Recent content in Career on Avi&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2024 12:02:29 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://debuging-avi.com/tags/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Ever Professional Code</title>
-      <link>http://localhost:1313/posts/my-first-ever-professional-code/</link>
+      <link>https://debuging-avi.com/posts/my-first-ever-professional-code/</link>
       <pubDate>Mon, 21 Oct 2024 12:02:29 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-ever-professional-code/</guid>
+      <guid>https://debuging-avi.com/posts/my-first-ever-professional-code/</guid>
       <description>&lt;p&gt;The first project at my first job was exciting and came with lots of key learning which have been lot useful through out my career.&lt;/p&gt;&#xA;&lt;p&gt;It was a project based company, they had clients with multiple requirements and they used to build solutions for them. Clients varied from single person companies to big corporates. Hence the requirements were also varied. From fuzzy one sentence requirements to detailed documents.&lt;/p&gt;&#xA;&lt;p&gt;First job I was given to build resume and job description matching app. It was not really clear what the client wanted. But we knew they wanted to match resume with job descriptions and communicate to either candidate or employer.&lt;/p&gt;</description>
     </item>
   </channel>
