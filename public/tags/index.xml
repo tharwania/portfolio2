@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Avi&#39;s Blog</title>
-    <link>https://debuging-avi.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Avi&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://debuging-avi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 12:02:29 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career</title>
+      <link>http://localhost:1313/tags/career/</link>
+      <pubDate>Mon, 21 Oct 2024 12:02:29 +0100</pubDate>
+      <guid>http://localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First-Job</title>
+      <link>http://localhost:1313/tags/first-job/</link>
+      <pubDate>Mon, 21 Oct 2024 12:02:29 +0100</pubDate>
+      <guid>http://localhost:1313/tags/first-job/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Mon, 21 Oct 2024 12:02:29 +0100</pubDate>
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
