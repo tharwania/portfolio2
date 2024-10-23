@@ -9,16 +9,17 @@ categories = ['career']
 showFullContent = false
 +++
 
-The first project at my first job was exciting and came with lots of key learning which have been lot useful through out my career.
+The first project at my first job was exciting and came with lots of key learnings which have been useful through out my career.
 
-It was a project based company, they had clients with multiple requirements and they used to build solutions for them. Clients varied from single person companies to big corporates. Hence the requirements were also varied. From fuzzy one sentence requirements to detailed documents. 
+My first job was at a project based company, they had multiple types of clients and they used to build solutions for them. Clients varied from single person companies to big corporates. Hence the requirements were also varied. From fuzzy one sentence requirements to detailed documents. 
 
-First job I was given to build resume and job description matching app. It was not really clear what the client wanted. But we knew they wanted to match resume with job descriptions and communicate to either candidate or employer.
+First job I was given to build resume and job description matching app. It was not really clear what the client wanted. But we knew they wanted to match resumes with job descriptions and communicate to either candidate or employer.
 
-First challenge was what we were looking for inm resumes, client very conveniently answered the keywords from job descriptions and resumes. so, all we had to do was read the resumes in docs or pdfs, extract defined keywords and emails. then match them with the job descriptions and send emails to the emails extracted from resumes.
-
+First challenge was what we were looking for in resumes, client very conveniently answered the keywords from job descriptions and resumes. so, all we had to do was read the resumes in docs or pdfs, extract defined keywords and emails. then match them with the job descriptions and send emails to the emails extracted from resumes.
 
 How do I do that? My mentor told me to open Visual Studio, create a new project, and start coding.
+
+It was .NET shop. so, tech was never a choice other than that.
 
 What type of project did I ask? The desktop app may be, he replied.
 
@@ -40,7 +41,7 @@ How do we come to the design? My mentor/manager drew that on paper and showed it
 
 As soon as I finished up the app, we demoed it to the client and he said we needed a web app. In all that paper design we forgot to ask and neither did he mention. Are we developing a desktop or web app? Mobile wasn’t that big at the time.
 
-And surprise surprise he wanted a web interface, I had to redraw my design with ASP.NET.
+And surprise surprise!! he wanted a web interface, I had to redraw my design with ASP.NET.
 
 >Key learning, always ask what type of interface you are developing for, desktop, web, mobile, etc.
 
