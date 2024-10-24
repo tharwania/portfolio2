@@ -2,6 +2,11 @@
 date = '2024-10-24T23:41:59+01:00'
 draft = true
 title = 'How to Use Chat Gpt Right Way as Developer'
+description = 'How to use Chat GPT right way as developer'
+slug = 'how-to-use-chat-gpt-right-way-as-developer'
+tags = ['chat-gpt', 'ai', 'gpt', 'developer', 'programming', 'coding', 'LLM']
+categories = ['ai', 'programming']
+showFullContent = false
 +++
 
 Chat GPT is like machine gun, it can fire a lot of bullets, but its equally hard to aim right. If you really know what you are doing, its better to use a sniper rifle. But if you are not sure, its better to use a machine gun.
