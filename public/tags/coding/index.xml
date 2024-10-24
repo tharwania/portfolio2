@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Avi&#39;s Blog</title>
-    <link>https://debuging-avi.com/</link>
-    <description>Recent content on Avi&#39;s Blog</description>
+    <title>Coding on Avi&#39;s Blog</title>
+    <link>https://debuging-avi.com/tags/coding/</link>
+    <description>Recent content in Coding on Avi&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2024 23:41:59 +0100</lastBuildDate>
-    <atom:link href="https://debuging-avi.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://debuging-avi.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Use Chat Gpt Right Way as Developer</title>
       <link>https://debuging-avi.com/posts/how-to-use-chat-gpt-right-way-as-developer/</link>
       <pubDate>Thu, 24 Oct 2024 23:41:59 +0100</pubDate>
       <guid>https://debuging-avi.com/posts/how-to-use-chat-gpt-right-way-as-developer/</guid>
       <description>&lt;p&gt;Chat GPT is like machine gun, it can fire a lot of bullets, but its equally hard to aim right. If you really know what you are doing, its better to use a sniper rifle. But if you are not sure, its better to use a machine gun.&lt;/p&gt;&#xA;&lt;p&gt;If you ask Chat GPT to write code, it takes 1 minute to write code, 1 hour to debug it and fix it if it did something on odd line you didn&amp;rsquo;t notice or language you don&amp;rsquo;t understand. Writing code line by line helps you understand, you take time to read documentation of each new function or class and change it better. so, writing code which is not trivial is not a good idea.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Ever Professional Code</title>
-      <link>https://debuging-avi.com/posts/my-first-ever-professional-code/</link>
-      <pubDate>Mon, 21 Oct 2024 12:02:29 +0100</pubDate>
-      <guid>https://debuging-avi.com/posts/my-first-ever-professional-code/</guid>
-      <description>&lt;p&gt;The first project at my first job was exciting and came with lots of key learnings which have been useful through out my career.&lt;/p&gt;&#xA;&lt;p&gt;My first job was at a project based company, they had multiple types of clients and they used to build solutions for them. Clients varied from single person companies to big corporates. Hence the requirements were also varied. From fuzzy one sentence requirements to detailed documents.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

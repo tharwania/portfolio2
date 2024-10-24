@@ -1,6 +1,6 @@
 +++
 date = '2024-10-24T23:41:59+01:00'
-draft = true
+draft = false
 title = 'How to Use Chat Gpt Right Way as Developer'
 description = 'How to use Chat GPT right way as developer'
 slug = 'how-to-use-chat-gpt-right-way-as-developer'

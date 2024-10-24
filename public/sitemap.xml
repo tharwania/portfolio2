@@ -2,19 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://debuging-avi.com/tags/ai/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/categories/ai/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
     <loc>https://debuging-avi.com/</loc>
     <lastmod>2024-10-24T23:41:59+01:00</lastmod>
   </url><url>
+    <loc>https://debuging-avi.com/categories/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/tags/chat-gpt/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/tags/coding/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/tags/developer/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/tags/gpt/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/posts/how-to-use-chat-gpt-right-way-as-developer/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/tags/llm/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
     <loc>https://debuging-avi.com/posts/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/tags/programming/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/categories/programming/</loc>
+    <lastmod>2024-10-24T23:41:59+01:00</lastmod>
+  </url><url>
+    <loc>https://debuging-avi.com/tags/</loc>
     <lastmod>2024-10-24T23:41:59+01:00</lastmod>
   </url><url>
     <loc>https://debuging-avi.com/tags/career/</loc>
     <lastmod>2024-10-21T12:02:29+01:00</lastmod>
   </url><url>
     <loc>https://debuging-avi.com/categories/career/</loc>
-    <lastmod>2024-10-21T12:02:29+01:00</lastmod>
-  </url><url>
-    <loc>https://debuging-avi.com/categories/</loc>
     <lastmod>2024-10-21T12:02:29+01:00</lastmod>
   </url><url>
     <loc>https://debuging-avi.com/tags/first-job/</loc>
@@ -24,9 +57,6 @@
     <lastmod>2024-10-21T12:02:29+01:00</lastmod>
   </url><url>
     <loc>https://debuging-avi.com/posts/my-first-ever-professional-code/</loc>
-    <lastmod>2024-10-21T12:02:29+01:00</lastmod>
-  </url><url>
-    <loc>https://debuging-avi.com/tags/</loc>
     <lastmod>2024-10-21T12:02:29+01:00</lastmod>
   </url>
 </urlset>
